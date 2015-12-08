@@ -7,6 +7,9 @@ More info and examples soon.
 
 
 # Gradle
-  dependencies {
+
+```javascript
+  	dependencies {
 	        compile 'com.github.vaslabs:vtrends:1.0'
 	}
+```
