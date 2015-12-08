@@ -8,6 +8,16 @@ More info and examples soon.
 
 # Gradle
 
+## Add repository to project build file
+```javascript
+  repositories {
+	    // ...
+	    maven { url "https://jitpack.io" }
+	}
+```
+
+### Latest release dependency
+
 ```javascript
   	dependencies {
 	        compile 'com.github.vaslabs:vtrends:1.0'
