@@ -1,6 +1,9 @@
 package com.vaslabs.vtrends;
 
 
+import com.vaslabs.vtrends.types.Differentiable;
+import com.vaslabs.vtrends.types.TrendPoint;
+
 import java.util.List;
 
 public interface Trend<V extends Number, P extends Differentiable> {

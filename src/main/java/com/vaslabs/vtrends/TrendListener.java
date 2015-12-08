@@ -1,5 +1,9 @@
 package com.vaslabs.vtrends;
 
+import com.vaslabs.vtrends.types.TrendDirection;
+import com.vaslabs.vtrends.types.TrendPoint;
+import com.vaslabs.vtrends.types.VelocityState;
+
 /**
  * Created by vnicolao on 16/05/15.
  */

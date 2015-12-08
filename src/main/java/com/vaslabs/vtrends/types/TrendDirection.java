@@ -1,4 +1,4 @@
-package com.vaslabs.vtrends;
+package com.vaslabs.vtrends.types;
 
 /**
  * Created by vnicolao on 16/05/15.

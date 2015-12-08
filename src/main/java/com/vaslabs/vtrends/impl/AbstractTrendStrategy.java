@@ -1,4 +1,12 @@
-package com.vaslabs.vtrends;
+package com.vaslabs.vtrends.impl;
+
+import com.vaslabs.vtrends.StrategyVisitor;
+import com.vaslabs.vtrends.Trend;
+import com.vaslabs.vtrends.TrendListener;
+import com.vaslabs.vtrends.types.VelocityState;
+import com.vaslabs.vtrends.types.Differentiable;
+import com.vaslabs.vtrends.types.TrendDirection;
+import com.vaslabs.vtrends.types.TrendPoint;
 
 import java.util.ArrayList;
 import java.util.HashMap;
